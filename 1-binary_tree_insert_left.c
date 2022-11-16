@@ -11,8 +11,7 @@ nclude "binary_trees.h"
  *     * @value: value of the node
  *
  *      * Return: NULL if it fails or the new node
- *
- *       */
+ */
 
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 
