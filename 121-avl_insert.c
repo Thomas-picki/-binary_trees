@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * r_insert_node - node value instertion in a AVL.
  * @tree: type **pointer of root node of the AVL tree struct.
