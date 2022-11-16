@@ -27,7 +27,3 @@ int binary_tree_is_leaf(const binary_tree_t *node)
 				return (0);
 
 }
-
-Footer
-
-© 2022 GitHub, Inc.
